@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @mcgabri13
-- 👀 I’m interested in mangás, coding, HQ's, movies, music and some another thing.
-- 🌱 I’m currently learning python, this is my focus, but i'm improving my HTML, JS and CSS to create a Website.
-- 💞️ I’m looking to collaborate with everyone that i can collaborate
-- 📫 How to reach me: instagram; email; 
+
